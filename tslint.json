@@ -505,6 +505,7 @@
 				"target": "**/vs/workbench/contrib/terminal/browser/**",
 				"restrictions": [
 					"vscode-xterm",
+					"xterm-addon-web-links",
 					"**/vs/**"
 				]
 			},

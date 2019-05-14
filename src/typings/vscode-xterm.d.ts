@@ -1053,8 +1053,6 @@ declare module 'vscode-xterm' {
 	interface Terminal {
 		_core: TerminalCore;
 
-		webLinksInit(handler?: (event: MouseEvent, uri: string) => void, options?: ILinkMatcherOptions): void;
-
 		/**
 		 * Find the next instance of the term, then scroll to and select it. If it
 		 * doesn't exist, do nothing.

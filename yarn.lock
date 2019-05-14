@@ -9930,6 +9930,11 @@ xtend@~2.1.1:
   dependencies:
     object-keys "~0.4.0"
 
+xterm-addon-web-links@^0.1.0-beta6:
+  version "0.1.0-beta6"
+  resolved "https://registry.yarnpkg.com/xterm-addon-web-links/-/xterm-addon-web-links-0.1.0-beta6.tgz#9b4e862be8928ef455a667745bea479665db6c6b"
+  integrity sha512-tkVU5wCfBFjXwfOvcbMHoLoMDANztkwSREiKyu2R059kEF+sP67Z33HzxVCXUWFuCmutcx40xR2O0BK68gXZlg==
+
 y18n@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
